@@ -1,4 +1,4 @@
-namespace Actio.Common.Services
+namespace EltradeCloud.Common.Services
 {
     public interface IServiceHost
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace Actio.Common.Commands
+namespace EltradeCloud.Common.Commands
 {
     public class CreateActivity : IAuthenticatedCommand
     {

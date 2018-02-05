@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Actio.Common.Commands
+namespace EltradeCloud.Common.Commands
 {
     public interface ICommandHandler<in T> where T : ICommand
     {

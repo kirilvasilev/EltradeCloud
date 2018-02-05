@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Actio.Common.Events
+namespace EltradeCloud.Common.Events
 {
     public interface IEventHandler<in T> where T : IEvent
     {

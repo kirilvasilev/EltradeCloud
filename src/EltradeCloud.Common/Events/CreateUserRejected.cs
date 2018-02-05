@@ -1,4 +1,4 @@
-namespace Actio.Common.Events
+namespace EltradeCloud.Common.Events
 {
     public class CreateUserRejected : IRejectedEvent
     {

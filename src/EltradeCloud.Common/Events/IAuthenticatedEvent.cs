@@ -1,6 +1,6 @@
 using System;
 
-namespace Actio.Common.Events
+namespace EltradeCloud.Common.Events
 {
     public interface IAuthenticatedEvent : IEvent
     {

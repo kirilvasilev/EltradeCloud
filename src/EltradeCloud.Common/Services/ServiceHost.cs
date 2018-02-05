@@ -1,13 +1,13 @@
 using System;
-using Actio.Common.Commands;
-using Actio.Common.Events;
-using Actio.Common.RabbitMq;
+using EltradeCloud.Common.Commands;
+using EltradeCloud.Common.Events;
+using EltradeCloud.Common.RabbitMq;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using RawRabbit;
 
-namespace Actio.Common.Services
+namespace EltradeCloud.Common.Services
 {
     public class ServiceHost : IServiceHost
     {

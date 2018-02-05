@@ -1,4 +1,4 @@
-namespace Actio.Common.Commands
+namespace EltradeCloud.Common.Commands
 {
     public class CreateUser : ICommand
     {

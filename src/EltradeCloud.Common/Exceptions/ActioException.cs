@@ -1,6 +1,6 @@
 using System;
 
-namespace Actio.Common.Exceptions
+namespace EltradeCloud.Common.Exceptions
 {
     public class ActioException : Exception
     {
